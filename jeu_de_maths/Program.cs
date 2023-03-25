@@ -87,7 +87,7 @@ namespace jeu_de_maths
 
         static void Main(string[] args)
         {
-            // 5 + 2 = 
+            // Jeux de maths avec une séquence de 5 questions à la suite
 
 
             // 1 - Définir MIN et MAX
